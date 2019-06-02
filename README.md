@@ -10,6 +10,9 @@ Deepin打包的迅雷极速版容器移植到Archlinux，不依赖`deepin-wine`
   <a href="https://aur.archlinux.org/packages/deepin-wine-thunderspeed/">
     <img src="https://img.shields.io/aur/version/deepin-wine-thunderspeed.svg" alt="AUR Version">
   </a>
+  <a href="https://github.com/countstarlight/deepin-wine-thunderspeed-arch/releases">
+    <img src="https://img.shields.io/github/downloads/countstarlight/deepin-wine-thunderspeed-arch/total.svg" alt="GitHub Release">
+  </a>
   <a href="https://github.com/countstarlight/deepin-wine-thunderspeed-arch/issues">
     <img src="https://img.shields.io/github/issues/countstarlight/deepin-wine-thunderspeed-arch.svg" alt="GitHub Issues">
   </a>
